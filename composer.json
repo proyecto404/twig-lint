@@ -12,8 +12,8 @@
         }
     ],
     "require": {
-        "symfony/console": "~2.1",
-        "symfony/finder": "~2.1",
+        "symfony/console": "3.*",
+        "symfony/finder": "3.*",
         "twig/twig": ">=1.16.2,<2.0"
     },
     "autoload": {
